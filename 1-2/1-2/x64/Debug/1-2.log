@@ -1,3 +1,0 @@
-﻿  源.cpp
-D:\visualproject\1-2\源.cpp(6,11): warning C4305: “初始化”: 从“double”到“float”截断
-  1-2.vcxproj -> D:\visualproject\1-2\x64\Debug\1-2.exe
